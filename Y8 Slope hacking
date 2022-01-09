@@ -1,0 +1,7 @@
+// Link to paste in tamper dev filter list : https://playtomic.y8.com/v1?hash=1
+// Link for the hashing website : https://caligatio.github.io/jsSHA/
+// Javascript compiler : https://www.programiz.com/javascript/online-compiler/
+//Hash code : 
+hash = 'WRITEHASHHERE'
+hash = hash.substring(0,20)
+console.log(hash)
